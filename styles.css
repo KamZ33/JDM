@@ -37,15 +37,3 @@
       border-radius: 5px;
   }
   
-  .container {
-    width: 400px;
-    height: 220px;
-    float: right;
-}
-
-/* Resize images */
-.container img {
-    width: 100%;
-    height: auto;
-    float:right;
-}
