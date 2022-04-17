@@ -5,3 +5,22 @@ h1 {
     margin-top: 40px;
     font-size: 50px;
 }
+.flex-container {
+    display: flex;
+    margin-top: 180px;
+}
+
+.flex-child {
+    flex: 1;
+    border: 2px solid rgb(200, 195, 188);
+    text-align: center;
+}  
+
+.flex-child:first-child {
+    margin-right: 20px;
+} 
+img {
+    position: relative;
+    right: -70px;
+
+}
