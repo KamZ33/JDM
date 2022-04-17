@@ -2,8 +2,9 @@
   /* h1 */
   h1 {
     text-align: center;
-    color: white;
-    background-color: darkblue;
+    color: rgb(200, 195, 188);
+    background-color: rgb(24, 26, 27, 0.5);
+    
   }
   /*-------------------------------------------- */
   /* h2 */
@@ -15,7 +16,9 @@
   /*-------------------------------------------- */
   /* body */
    body {
-       background-color: blue;
+    background-image: initial;
+    background-color: rgb(34, 37, 39);
+    color: rgb(200, 195, 188);
    }
   /*-------------------------------------------- */
   /* p  */
