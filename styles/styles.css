@@ -35,7 +35,22 @@
     max-height: 50%;
     width: auto;
       height: auto;
-      border-style: groove;
+      border-style: solid;
       border-color:white;
       border-radius: 5px;
   }
+  a {
+    text-decoration: none;
+}
+button {
+
+  text-align: center;
+  background-color: black;
+  border: 2px solid rgb(200, 195, 188);
+  position: relative;
+  left: 640px;
+  bottom: 10px;
+}
+button:hover {
+background-color: darkgrey;
+}

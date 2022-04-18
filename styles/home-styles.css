@@ -27,7 +27,7 @@ p {
 
 .flex-container {
     display: flex;
-    margin-top: 180px;
+    margin-top: 100px;
 }
 
 .flex-child {
@@ -46,7 +46,14 @@ img {
     max-height: 100%;
     width: auto;
       height: auto;
-      border-style: groove;
+      border-style: solid;
       border-color:white;
-      border-radius: 5px;
+      border-radius: 10px;
+}
+.flex-child:hover{
+    background-color: darkgrey;
+  }
+
+a {
+    text-decoration: none;
 }
