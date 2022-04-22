@@ -48,7 +48,6 @@ button {
   background-color: black;
   border: 2px solid rgb(200, 195, 188);
   position: relative;
-  left: 640px;
   bottom: 10px;
 }
 button:hover {
